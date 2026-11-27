@@ -101,6 +101,9 @@ GitHub Actions 会在推送和拉取请求时运行同一检查。检查通过�
 
 上传、安装验证和版本标签步骤见[发布说明](docs/publishing.md)；本次整理的变化见[变更记录](CHANGELOG.md)。
 
+## 生成示例
+<img width="723" height="864" alt="Snipaste_2026-11-27_15-03-55" src="https://github.com/user-attachments/assets/1655bc06-e3c8-4dec-bc5d-fea399f33c74" />
+
 ## 参考与许可
 
 - [Agent Skills 规范](https://agentskills.io/specification)
