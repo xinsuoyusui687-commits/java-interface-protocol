@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java 接口协议整理"
+  short_description: "根据 Java 代码核对字段、必填标注与嵌套对象，生成可追溯接口文档"
+  default_prompt: "请使用 $java-interface-protocol，根据我提供的 Java 源码和已有协议整理接口文档，保留真实类型、嵌套层级和证据边界。"
